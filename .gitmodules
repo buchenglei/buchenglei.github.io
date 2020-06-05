@@ -1,0 +1,12 @@
+[submodule "themes/harbor"]
+	path = themes/harbor
+	url = https://github.com/matsuyoshi30/harbor.git
+[submodule "themes/hugo-serif-theme"]
+	path = themes/hugo-serif-theme
+	url = https://github.com/jugglerx/hugo-serif-theme.git
+[submodule "themes/hugo-theme-fuji"]
+	path = themes/hugo-theme-fuji
+	url = https://github.com/amzrk2/hugo-theme-fuji.git
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git

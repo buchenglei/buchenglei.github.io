@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Coder Lei&#39;s Blog</title>
-    <link>https://buchenglei.github.com/posts/</link>
+    <link>https://blog.bigger.run/posts/</link>
     <description>Recent content in Posts on Coder Lei&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn-zh</language>
     <lastBuildDate>Fri, 05 Jun 2020 16:48:12 +0800</lastBuildDate>
     
-	<atom:link href="https://buchenglei.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.bigger.run/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://buchenglei.github.com/posts/my-first-post/</link>
+      <link>https://blog.bigger.run/posts/my-first-post/</link>
       <pubDate>Fri, 05 Jun 2020 16:48:12 +0800</pubDate>
       
-      <guid>https://buchenglei.github.com/posts/my-first-post/</guid>
+      <guid>https://blog.bigger.run/posts/my-first-post/</guid>
       <description>Hello, World</description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL = "https://buchenglei.github.com/"
+baseURL = "https://blog.bigger.run/"
 languageCode = "cn-zh"
 title = "Coder Lei's Blog"
 theme = "hugo-theme-console"
